@@ -23,6 +23,8 @@ int main()
 
 
     int product =num1 *num2;
-    printf("the product of first and second is %d",product);
+    printf("the product of first and second integer is %d",product);
+
+    return 0;
 
 }
