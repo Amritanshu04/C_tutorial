@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/random_codes",
-      "program": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/random_codes/build/Debug/outDebug",
+      "cwd": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/String",
+      "program": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/String/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
