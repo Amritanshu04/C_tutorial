@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/String",
-      "program": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/String/build/Debug/outDebug",
+      "cwd": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/Basic_Declarations_and_Expressions",
+      "program": "c:/Users/amrit/OneDrive/Desktop/c-tutorial/Basic_Declarations_and_Expressions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
